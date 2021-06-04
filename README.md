@@ -42,3 +42,4 @@ Instruction:
 4. Use "files/amazon_stock.txt" for ready to copy text with stock status (different user region might show different status, Japan is the suggested region).
 5. Note: some instruction above seems arbitary because of legacy reason and i can't be bothered to change everything).
 
+github: https://github.com/ManganiMY/amazon_manga_scrape
