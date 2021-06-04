@@ -12,6 +12,7 @@ Warnings:
 5. Exception is when it actually failed.
 
 Instruction:
+
 1.Enter The following Parameters in "files/Amazon.xls"(you can create a similar structure in google sheets and download as xsl(convert from xlsx) if you don't have MS excel)
 	i)Name (proper name is optional, this is just as a guide)
 	ii) Emoji (required, custom emoji is only usable in the appropriate server or you have nitor or using a bot)
