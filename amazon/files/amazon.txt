@@ -1,0 +1,9 @@
+:man_running: 	*4407	\:arrow_up_small:
+:zombie: 	*6341	\:arrow_up_small:
+:robot: 	13724	\:arrow_up_small:
+:detective: 	14007	\:arrow_up_small:
+:key: 	18191	\:arrow_up_small:
+:astronaut: 	24418	\:arrow_up_small:
+:astronaut: 	28345	\:arrow_up_small:
+:dolphin: 	40278	\:arrow_up_small:
+:love_letter: 	57524	\:arrow_up_small:

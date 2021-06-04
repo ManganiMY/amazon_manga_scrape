@@ -1,0 +1,9 @@
+:man_running: 	*4407	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:zombie: 	*6341	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:robot: 	13724	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:detective: 	14007	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:key: 	18191	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:astronaut: 	24418	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:astronaut: 	28345	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:dolphin: 	40278	\:arrow_up_small:	` This title will be released on July 2, 2021.`
+:love_letter: 	57524	\:arrow_up_small:	` This title will be released on July 2, 2021.`
