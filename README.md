@@ -43,3 +43,5 @@ Instruction:
 5. Note: some instruction above seems arbitary because of legacy reason and i can't be bothered to change everything).
 
 github: https://github.com/ManganiMY/amazon_manga_scrape
+
+zip (google drive): https://drive.google.com/file/d/1bKXcoxKqSblKLSgkwaV81TBvCOuq-qIn/view?usp=sharing
