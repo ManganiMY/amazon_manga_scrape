@@ -14,11 +14,11 @@ Warnings:
 Instruction:
 
 1. Enter The following Parameters in "files/Amazon.xls"(you can create a similar structure in google sheets and download as xsl(convert from xlsx) if you don't have MS excel)
-	i)Name (proper name is optional, this is just as a guide)
+	i) Name (proper name is optional, this is just as a guide)
 	ii) Emoji (required, custom emoji is only usable in the appropriate server or you have nitor or using a bot)
 	iii) Type (required, (P) for physical, (D) for digital)
 	iv) Links (required, please keep it short but doesn't have to)
-	v) status (optional, can be left as blank)
+	v) Status (optional, can be left as blank)
 2. Run "amazon.exe" (you can copy the main exe and create a shortcut in the "files" folder for easy access) .
 	i) enable firewall access for the first time usage
 3. Use "files/amazon.txt" for ready to copy text.
