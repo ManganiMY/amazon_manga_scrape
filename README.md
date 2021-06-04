@@ -7,8 +7,9 @@ Warnings:
 2. You might get blocked by Amazon(temporary) if:
 
 
-	i)Used to frequently in quick succestion
-	ii)To many volumes at once
+	i) Used to frequently in quick succestion
+	
+	ii) To many volumes at once
 	
 	
 3. Don't bother me for an update.request, you may try, but don't.
@@ -21,9 +22,13 @@ Instruction:
 
 
 	i) Name (proper name is optional, this is just as a guide)
+	
 	ii) Emoji (required, custom emoji is only usable in the appropriate server or you have nitor or using a bot)
+	
 	iii) Type (required, (P) for physical, (D) for digital)
+	
 	iv) Links (required, please keep it short but doesn't have to)
+	
 	v) Status (optional, can be left as blank)
 	
 	
