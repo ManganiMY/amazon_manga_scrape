@@ -5,8 +5,8 @@ Simple ReadMe cause I can't be bothered.
 Warnings:
 1. Use at your risk i guess.
 2. You might get blocked by Amazon(temporary) if:
-	i: Used to frequently in quick succestion
-	ii: To many volumes at once
+	i)Used to frequently in quick succestion
+	ii)To many volumes at once
 3. Don't bother me for an update.request, you may try, but don't.
 4. I can make customizable output, but see above.
 5. Exception is when it actually failed.
