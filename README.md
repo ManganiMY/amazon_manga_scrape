@@ -45,3 +45,5 @@ Instruction:
 github: https://github.com/ManganiMY/amazon_manga_scrape
 
 zip (google drive): https://drive.google.com/file/d/1bKXcoxKqSblKLSgkwaV81TBvCOuq-qIn/view?usp=sharing
+
+gimme fuel if you think you got anyhting from this: https://ko-fi.com/manganimy
